@@ -1,0 +1,18 @@
+body {
+    background-color: black;
+    font-family: Verdana;
+    text-align: center;
+}
+
+.header {
+    color: white;
+    font-weight: bold;
+    font-size: 50px;
+
+}
+
+.header a {
+    font-size: 16px;
+    color: aquamarine;
+   
+}
